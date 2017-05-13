@@ -1,0 +1,42 @@
+{
+  "name": "overpower_online",
+  "version": "1.0.0",
+  "description": "OverPower Online Card Game",
+  "homepage": "overpoweronline.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    {
+      "name": "Cody Lanier",
+      "email": "cody@overpoweronline.com",
+      "url": ""
+    },
+    {
+      "name": "Jonathan Land",
+      "email": "jon@overpoweronline.com",
+      "url": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OverPowerOnline/opo"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OverPowerOnline/opo/issues"
+  , "email": "support@overpoweronline.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongojs": "^2.4.0"
+  }
+}
