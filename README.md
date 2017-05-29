@@ -6,7 +6,7 @@ This repository is meant for the game interface and mechanics.
 ### Contact Information
 - email:         info@overpoweronline.com
 
-### Sister apps:
+### Sister Apps:
 - Deck Builder:  https://github.com/OverPowerOnline/opo_deck_builder
 - Game Lobby:    https://github.com/OverPowerOnline/opo_game_lobby
 
