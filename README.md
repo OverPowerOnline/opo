@@ -3,12 +3,12 @@ A digital version of the popular late-90s Marvel Trading Card Game.
   
 This repository is meant for the game interface and mechanics.
 
-### Sister apps:
-- Deck Builder  https://github.com/OverPowerOnline/opo_deck_builder
-- Game Lobby:   https://github.com/OverPowerOnline/opo_game_lobby
+### Contact Information
+- email:         info@overpoweronline.com
 
-# Contact Information
-email: info@overpoweronline.com
+### Sister apps:
+- Deck Builder:  https://github.com/OverPowerOnline/opo_deck_builder
+- Game Lobby:    https://github.com/OverPowerOnline/opo_game_lobby
 
 # Getting Started
 ### 1. Install Git
