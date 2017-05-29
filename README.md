@@ -2,6 +2,7 @@
 A digital version of the popular late-90s Marvel Trading Card Game.  
   
 This repository is meant for the game interface and mechanics.
+
 ### Sister apps:
 - Deck Builder  https://github.com/OverPowerOnline/opo_deck_builder
 - Game Lobby:   https://github.com/OverPowerOnline/opo_game_lobby
@@ -9,7 +10,7 @@ This repository is meant for the game interface and mechanics.
 # Contact Information
 email: info@overpoweronline.com
 
-# Setup workspace
+# Getting Started
 ### 1. Install Git
 https://git-scm.com/downloads  
 NOTE: Please select the option for your Operating System (OS) to 'commit unix-style line endings', which should be Option 1 or 2 (not 3). Option 1 if you have a Windows OS, Option 2 for Linux and MacOS.
