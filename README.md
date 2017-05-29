@@ -6,6 +6,9 @@ This repository is meant for the game interface and mechanics.
 - Deck Builder  https://github.com/OverPowerOnline/opo_deck_builder
 - Game Lobby:   https://github.com/OverPowerOnline/opo_game_lobby
 
+# Contact Information
+email: info@overpoweronline.com
+
 # Setup workspace
 ### 1. Install Git
 https://git-scm.com/downloads  
