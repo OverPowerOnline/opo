@@ -33,3 +33,5 @@ https://www.mongodb.com/download-center#community
 ### 6. Install additional global node packages
 - `npm install -g nodemon`
 - NOTE: This package automatically restarts your webserver whenever a file changes (i.e. on save)
+### 7. Start your server
+- `npm start`

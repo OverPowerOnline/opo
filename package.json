@@ -30,13 +30,13 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/OverPowerOnline/opo/issues"
-  , "email": "support@overpoweronline.com"
+    "url": "https://github.com/OverPowerOnline/opo/issues",
+    "email": "support@overpoweronline.com"
   },
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "ejs": "^2.5.6",
-    "express": "^4.15.2",
-    "mongojs": "^2.4.0"
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "mongojs": "^2.5.0"
   }
 }
